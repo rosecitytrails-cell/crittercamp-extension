@@ -1,644 +1,644 @@
 {
-  "lastUpdated": "2026-06-20T12:00:00Z",
+  "lastUpdated": "2026-07-03T12:00:00Z",
   "critters": [
     {
       "id": "whitetail_deer",
       "name": "White-tailed Deer",
       "category": "mammals",
       "icon": "🦌",
-      "summary": "Early-summer leaf-line regulars browsing the green buffet while fawns stay tucked like tiny woodland secrets.",
-      "fact": "By late June, does often keep fawns hidden in tall grass or cover while adults feed heavily on lush leaves, forbs, and tender shoots.",
-      "activeFact": "Right now, deer are working shaded edges, fresh browse, and quiet openings, with fawns likely nearby even when you never see them."
+      "summary": "Midsummer edge grazer now feeding heavy while fawns stay tucked and bucks carry growing velvet antlers.",
+      "fact": "By early July, white-tailed deer are deep into summer feeding patterns, with does raising fawns and bucks growing velvet antlers.",
+      "activeFact": "Right now, deer may hit clover, openings, trail edges, and shady browse pockets, while fawns often stay hidden nearby."
     },
     {
       "id": "black_bear",
       "name": "Black Bear",
       "category": "mammals",
       "icon": "🐻",
-      "summary": "Big summer forager roaming the groceries harder now that berries, bugs, and green growth are all joining the menu.",
-      "fact": "Black bears feed heavily in early summer on grasses, insects, larvae, carrion, and emerging soft mast as they rebuild body reserves.",
-      "activeFact": "Right now, bear activity is most likely near berry patches, rotting logs, swamp edges, and quiet feeding lanes with easy calories."
+      "summary": "Summer calorie machine roaming green woods for berries, insects, plants, and every easy snack the forest offers.",
+      "fact": "In early July, black bears feed heavily on berries, insects, soft plants, carrion, and opportunistic foods to build summer weight.",
+      "activeFact": "Right now, bears may work berry patches, wet bottoms, logs, trails, and quiet feeding pockets where food is stacking up."
     },
     {
       "id": "coyote",
       "name": "Coyote",
       "category": "mammals",
       "icon": "🐕",
-      "summary": "Lean summer patrol unit working edges while young-of-year prey turns the woods into a louder, softer buffet.",
-      "fact": "Coyotes feed opportunistically in early summer, hunting rodents, rabbits, birds, insects, and vulnerable young animals while pups grow at dens.",
-      "activeFact": "Right now, coyotes may be traveling low-light routes near fields, two-tracks, and brushy edges where prey movement stays steady."
+      "summary": "Lean summer hunter working trails and field edges while pups grow and adults keep the food runs moving.",
+      "fact": "By early July, coyote pups are growing fast, and adults hunt steadily for rodents, rabbits, insects, birds, and easy meals.",
+      "activeFact": "Right now, coyotes may travel two-tracks, openings, and brush lines at dawn or dusk while feeding hungry pups."
     },
     {
       "id": "red_fox",
       "name": "Red Fox",
       "category": "mammals",
       "icon": "🦊",
-      "summary": "Rusty little edge hunter running the grass lines while kits and easy meals keep the schedule busy.",
-      "fact": "Red fox adults often hunt heavily in early summer to feed growing kits, focusing on rodents, rabbits, insects, and birds.",
-      "activeFact": "Right now, foxes may be seen slipping through openings or carrying prey back toward denning cover like tiny red delivery drivers."
+      "summary": "Rusty grassline hunter now chasing rodents and summer insects while young foxes learn the neighborhood.",
+      "fact": "In early July, red fox kits are more mobile and adults continue hunting rodents, rabbits, birds, insects, and seasonal fruit.",
+      "activeFact": "Right now, foxes may appear near open grass, trails, and field edges where mice and young prey are active."
     },
     {
       "id": "gray_fox",
       "name": "Gray Fox",
       "category": "mammals",
       "icon": "🦊",
-      "summary": "Brush-country ghost staying tucked in green cover while summer finally gives it the privacy curtain it likes.",
-      "fact": "Gray foxes use dense leafed-out cover in early summer to travel, hunt, and protect young while staying mostly hidden.",
-      "activeFact": "Right now, gray fox movement is most likely inside thickets, wooded edges, and tangled cover where cameras only get lucky glimpses."
+      "summary": "Brush-country shadow staying tucked in thick summer cover while quietly feeding young and avoiding open drama.",
+      "fact": "Gray foxes rely on dense summer vegetation for cover while raising young and hunting small mammals, birds, insects, and fruit.",
+      "activeFact": "Right now, gray fox activity is most likely along brushy lanes, wooded edges, and shadowed routes where cover is thick."
     },
     {
       "id": "bobcat",
       "name": "Bobcat",
       "category": "mammals",
       "icon": "🐈",
-      "summary": "Silent summer stalker moving through thick cover like the woods signed a nondisclosure agreement.",
-      "fact": "Bobcats hunt rabbits, squirrels, birds, and small mammals through early summer, using heavy vegetation and edge habitat for ambush.",
-      "activeFact": "Right now, bobcats may be working shaded transitions and brushy travel lanes where young animals and active prey are easier to find."
+      "summary": "Silent midsummer stalker using heavy green cover to ambush rabbits, rodents, birds, and careless young prey.",
+      "fact": "By early July, bobcats take advantage of thick vegetation and busy prey movement to hunt along edges and timber cover.",
+      "activeFact": "Right now, bobcats may work brush lines, crossings, and shaded transition zones where small animals move through cover."
     },
     {
       "id": "porcupine",
       "name": "Porcupine",
       "category": "mammals",
       "icon": "🦔",
-      "summary": "Slow green-season browser finally enjoying softer leaves without giving up the whole cranky tree-goblin lifestyle.",
-      "fact": "Porcupines feed more on leaves, herbs, and soft vegetation in summer while still using trees for shelter and woody foods.",
-      "activeFact": "Right now, porcupines may be found browsing leafy branches or loafing in trees where nobody is rushing their ancient little agenda."
+      "summary": "Slow leafy browser now enjoying summer greens while still chewing woody snacks like an old habit.",
+      "fact": "In summer, porcupines feed on leaves, herbs, bark, twigs, and aquatic plants when available.",
+      "activeFact": "Right now, porcupines may be found in leafy trees, quiet woods, and green edges where soft vegetation is easy to reach."
     },
     {
       "id": "beaver",
       "name": "Beaver",
       "category": "mammals",
       "icon": "🦫",
-      "summary": "Dam-site project manager deep in summer maintenance while water levels and fresh growth keep the crew employed.",
-      "fact": "Beavers continue cutting fresh vegetation and repairing dams through summer, especially where changing water levels threaten pond control.",
-      "activeFact": "Right now, fresh peeled sticks, muddy slides, and overnight repairs are signs the beaver department is still very much open."
+      "summary": "Wetland contractor still running night repairs, food cutting, and water-level management like a swamp foreman.",
+      "fact": "Beavers stay active all summer cutting vegetation, maintaining dams, repairing lodges, and managing pond depth.",
+      "activeFact": "Right now, fresh mud, peeled sticks, slides, and new cuttings can show where the beaver night crew clocked in."
     },
     {
       "id": "muskrat",
       "name": "Muskrat",
       "category": "mammals",
       "icon": "🦫",
-      "summary": "Marsh commuter cruising pond lanes now that aquatic salad season has officially clocked in.",
-      "fact": "Muskrats feed heavily on aquatic plants in summer and may raise young in bank burrows or vegetation lodges.",
-      "activeFact": "Right now, muskrats may be swimming shoreline routes, clipping greens, or popping through cattails like little wetland interns."
+      "summary": "Warm-season pond commuter cruising cattails and green shorelines like a tiny wetland taxi.",
+      "fact": "Muskrats feed heavily on aquatic plants in summer and use bank burrows, lodges, and shoreline trails.",
+      "activeFact": "Right now, muskrats may swim pond edges, feed near cattails, or slip through green water lanes at dawn and dusk."
     },
     {
       "id": "mink",
       "name": "Mink",
       "category": "mammals",
       "icon": "🐾",
-      "summary": "Shoreline troublemaker hunting the wet edges where frogs, fish, and bad decisions gather.",
-      "fact": "Minks patrol summer banks for frogs, fish, crayfish, voles, eggs, and young birds, using dense shoreline cover to stay hidden.",
-      "activeFact": "Right now, mink activity is most likely along muddy pond edges, creek banks, and narrow trails where everything smells like lunch."
+      "summary": "Slick shoreline predator patrolling warm banks where frogs, fish, eggs, and small prey are having a rough July.",
+      "fact": "Minks hunt fish, frogs, crayfish, eggs, birds, and small mammals along ponds, creeks, and marsh edges.",
+      "activeFact": "Right now, mink may show along muddy banks, pond margins, and tight shoreline routes where prey is concentrated."
     },
     {
       "id": "fisher",
       "name": "Fisher",
       "category": "mammals",
       "icon": "🐾",
-      "summary": "Deep-woods shadow threading green timber like it knows where the quiet keeps its valuables.",
-      "fact": "Fishers remain active year-round and use early-summer forest cover to hunt squirrels, hares, birds, and small mammals.",
-      "activeFact": "Right now, fishers may be moving through heavier timber and shaded corridors, usually noticed only by tracks or trail-cam luck."
+      "summary": "Deep-woods prowler moving through shaded summer timber where squirrels and rabbits keep making noise.",
+      "fact": "Fishers use large forest ranges and hunt squirrels, rabbits, birds, and other prey through the warm season.",
+      "activeFact": "Right now, fishers are mostly unseen in heavy woods, with trail cameras often catching the best proof they passed through."
     },
     {
       "id": "river_otter",
       "name": "River Otter",
       "category": "mammals",
       "icon": "🦦",
-      "summary": "Creek-and-pond acrobat turning summer water into a snack lane with a splashy attitude problem.",
-      "fact": "River otters hunt fish, frogs, crayfish, and aquatic prey through summer and often travel between ponds, streams, and wetlands.",
-      "activeFact": "Right now, otters may be cruising open water, sliding banks, or working fish-heavy corners with full pond-gremlin confidence."
+      "summary": "Midsummer water clown hunting fish and frogs while turning muddy banks into personal playground equipment.",
+      "fact": "River otters feed on fish, frogs, crayfish, and aquatic prey while using slides, dens, and waterways for travel.",
+      "activeFact": "Right now, otters may cruise channels, stir pond edges, use muddy slides, and hunt where warm-water prey is active."
     },
     {
       "id": "gray_squirrel",
       "name": "Eastern Gray Squirrel",
       "category": "mammals",
       "icon": "🐿️",
-      "summary": "Treetop chaos clerk juggling leaf nests, feeder raids, and branch politics in peak green cover.",
-      "fact": "Eastern gray squirrels feed on buds, seeds, fungi, insects, and early fruits in summer while young squirrels become more visible.",
-      "activeFact": "Right now, gray squirrels are racing through full canopy, raiding feeders, and teaching young ones the fine art of unnecessary drama."
+      "summary": "Leafy treetop circus now loaded with young squirrels, feeder raids, shade breaks, and branch chaos.",
+      "fact": "By early July, young gray squirrels may be active, while adults feed on seeds, fungi, buds, fruit, and garden scraps.",
+      "activeFact": "Right now, gray squirrels may be busy in full leaf cover, raiding feeders, chasing, and teaching young squirrels the art of nonsense."
     },
     {
       "id": "red_squirrel",
       "name": "American Red Squirrel",
       "category": "mammals",
       "icon": "🐿️",
-      "summary": "Tiny red siren still yelling at the forest like he personally invented property rights.",
-      "fact": "American red squirrels defend middens, nests, and feeding areas year-round, with summer activity focused on seeds, fungi, and young growth.",
-      "activeFact": "Right now, red squirrels are loud in conifers and mixed woods, scolding everything with a pulse and several things without one."
+      "summary": "Tiny red security alarm still defending cones, feeders, and personal space with outrageous confidence.",
+      "fact": "Red squirrels defend territories year-round and use summer to feed, cache food, and guard prime conifer habitat.",
+      "activeFact": "Right now, red squirrels may chatter from branches, guard feeding spots, and make the woods sound personally offended."
     },
     {
       "id": "chipmunk",
       "name": "Chipmunk",
       "category": "mammals",
       "icon": "🐿️",
-      "summary": "Pocket rocket of the trail edge stuffing cheeks like summer is a grocery challenge.",
-      "fact": "Chipmunks spend early summer feeding on seeds, berries, fungi, insects, and plant material while keeping burrow systems active.",
-      "activeFact": "Right now, chipmunks are darting around logs, stumps, and trail edges with cheeks full and zero respect for traffic patterns."
+      "summary": "Striped pocket rocket running full summer traffic between logs, burrows, seeds, and cheek-stuffed errands.",
+      "fact": "Chipmunks gather seeds, berries, fungi, insects, and other foods in summer, often carrying supplies in cheek pouches.",
+      "activeFact": "Right now, chipmunks may zip across trails, logs, and rocks before diving into burrow entrances with grocery cheeks."
     },
     {
       "id": "snowshoe_hare",
       "name": "Snowshoe Hare",
       "category": "mammals",
       "icon": "🐇",
-      "summary": "Brown-coated cover hugger disappearing into green understory now that the winter wardrobe embarrassment is over.",
-      "fact": "Snowshoe hares shift to a brown summer coat and feed on grasses, leaves, clover, and tender vegetation through the growing season.",
-      "activeFact": "Right now, hares are most likely tucked in thick cover, where green growth finally gives them the camouflage they ordered months ago."
+      "summary": "Brown summer hare disappearing into leafy understory where thick cover finally pays rent.",
+      "fact": "By July, snowshoe hares wear brown summer coats and rely on dense vegetation for food and camouflage.",
+      "activeFact": "Right now, hares may be hard to spot in shaded brush, young forest growth, and thick understory where they blend fast."
     },
     {
       "id": "cottontail",
       "name": "Eastern Cottontail",
       "category": "mammals",
       "icon": "🐇",
-      "summary": "Brush-pile hopper living close to the salad bar and even closer to the escape hatch.",
-      "fact": "Eastern cottontails feed on grasses, clover, weeds, and garden-edge greens in summer while relying on thick cover for protection.",
-      "activeFact": "Right now, cottontails are active along mowed edges, brush piles, and fresh growth pockets, especially early and late in the day."
+      "summary": "Midsummer brush-edge hopper grazing clover, lawns, and soft greens with one ear on emergency mode.",
+      "fact": "Eastern cottontails breed through the warm season and feed heavily on grasses, clover, garden plants, and tender shoots.",
+      "activeFact": "Right now, cottontails may feed near lawns, trails, clover patches, and brush piles during cooler dawn and dusk windows."
     },
     {
       "id": "raccoon",
       "name": "Raccoon",
       "category": "night",
       "icon": "🦝",
-      "summary": "Night-shift camp inspector checking ponds, feeders, logs, and anything foolish enough to smell edible.",
-      "fact": "Raccoons forage widely in summer for insects, frogs, eggs, fruit, crayfish, fish, and human leftovers when available.",
-      "activeFact": "Right now, raccoons may be working pond edges, creek crossings, feeders, and camp margins like furry little auditors with hands."
+      "summary": "Night-shift snack criminal working water edges, feeders, fruit, bugs, eggs, and anything not nailed down.",
+      "fact": "Raccoons eat crayfish, frogs, insects, eggs, fruit, fish, carrion, and human-adjacent scraps when available.",
+      "activeFact": "Right now, raccoons may patrol ponds, creeks, feeders, campsites, gardens, and trash zones with tiny burglary hands."
     },
     {
       "id": "opossum",
       "name": "Opossum",
       "category": "night",
       "icon": "🐀",
-      "summary": "Warm-night wanderer finally operating in weather that doesn’t feel like a personal insult.",
-      "fact": "Opossums feed on insects, carrion, fruit, small animals, and ticks through summer while traveling after dark through edge habitat.",
-      "activeFact": "Right now, opossums may show around brush, sheds, trails, and water edges, quietly cleaning up the weird buffet nobody else wants."
+      "summary": "Warm-night cleanup crew patrolling summer edges for insects, fruit, scraps, carrion, and whatever nobody claimed.",
+      "fact": "Opossums are omnivorous scavengers that eat insects, carrion, fruit, small animals, eggs, and easy seasonal foods.",
+      "activeFact": "Right now, opossums may wander sheds, brush, compost spots, trails, road edges, and camp margins after dark."
     },
     {
       "id": "skunk",
       "name": "Striped Skunk",
       "category": "night",
       "icon": "🦨",
-      "summary": "Striped lawn inspector rooting up soft ground with one built-in warning label and no fear of management.",
-      "fact": "Striped skunks feed heavily on insects, grubs, worms, eggs, and small animals during summer nights.",
-      "activeFact": "Right now, skunks may be digging in lawns, trail edges, and damp soil where the grub counter is open late."
+      "summary": "Striped grub inspector digging through summer soil like every beetle larva signed a confession.",
+      "fact": "Striped skunks eat grubs, beetles, grasshoppers, eggs, fruit, small animals, and other easy summer foods.",
+      "activeFact": "Right now, skunks may nose through lawns, damp soil, trails, and field edges where insects are abundant."
     },
     {
       "id": "flying_squirrel",
       "name": "Flying Squirrel",
       "category": "night",
       "icon": "🐿️",
-      "summary": "After-dark canopy glider running secret squirrel business above the whole daylight circus.",
-      "fact": "Flying squirrels feed on nuts, seeds, fungi, buds, insects, and bird eggs in summer while nesting in cavities or boxes.",
-      "activeFact": "Right now, they are mostly invisible unless nighttime cameras, feeders, or nest boxes catch the little tree-to-tree air raids."
+      "summary": "Silent leafy glider running midnight treetop routes while the daytime woods misses the whole show.",
+      "fact": "Flying squirrels feed on seeds, fungi, insects, fruit, buds, and nuts while gliding between trees after dark.",
+      "activeFact": "Right now, nighttime feeders, nest boxes, cavities, and cameras may catch them moving through full summer canopy."
     },
     {
       "id": "little_brown_bat",
       "name": "Little Brown Bat",
       "category": "night",
       "icon": "🦇",
-      "summary": "Small dusk bug vacuum finally getting decent insect traffic over ponds and open lanes.",
-      "fact": "Little brown bats feed heavily on flying insects during warm summer evenings, often foraging over water and woodland openings.",
-      "activeFact": "Right now, mild nights may bring quick bat loops over ponds, trails, and edges where mosquitoes made poor career choices."
+      "summary": "Small mosquito hunter looping over warm July ponds, trails, and openings where bugs are fully in business.",
+      "fact": "Little brown bats use echolocation to catch flying insects, especially around water and wooded openings.",
+      "activeFact": "Right now, mild humid nights may bring feeding loops over ponds, clearings, trails, and tree lines."
     },
     {
       "id": "big_brown_bat",
       "name": "Big Brown Bat",
       "category": "night",
       "icon": "🦇",
-      "summary": "Tough summer moth hunter patrolling lights, tree lines, and clearings like pest control with wings.",
-      "fact": "Big brown bats feed on beetles, moths, flies, and other night insects, often using buildings or trees as roost sites.",
-      "activeFact": "Right now, big brown bats may appear around lights, buildings, and open edges on warm evenings when the bug buffet gets loud."
+      "summary": "Tough summer dusk hunter cruising lights, buildings, and openings for beetles, moths, and night bugs.",
+      "fact": "Big brown bats often feed on beetles, moths, and other night-flying insects during warm summer evenings.",
+      "activeFact": "Right now, they may appear near lights, structures, pond edges, and woodland gaps when insects rise after sunset."
     },
     {
       "id": "barred_owl",
       "name": "Barred Owl",
       "category": "night",
       "icon": "🦉",
-      "summary": "Deep-woods night boss calling from the green dark while everything smaller pretends not to hear it.",
-      "fact": "Barred owls hunt small mammals, frogs, birds, and invertebrates through summer, often near mature woods and wet areas.",
-      "activeFact": "Right now, barred owls may be calling at dusk or hunting damp woods where frogs and small mammals are very much on the menu."
+      "summary": "Leafy-woods night caller balancing summer hunting with young owls learning the dark-side basics.",
+      "fact": "By early July, barred owl young may be branching or exploring while adults continue feeding and guarding them.",
+      "activeFact": "Right now, calls may roll through thick woods at dusk or dawn, with family activity hidden under full summer leaves."
     },
     {
       "id": "great_horned_owl",
       "name": "Great Horned Owl",
       "category": "night",
       "icon": "🦉",
-      "summary": "Big night predator shifting from nest duty toward keeping growing youngsters fed and out of trouble.",
-      "fact": "Great horned owl young may be branching or fledging by early summer, while adults continue feeding and guarding them.",
-      "activeFact": "Right now, adults may be quieter but busy, hunting hard near nest areas and keeping young owls supplied with midnight groceries."
+      "summary": "Early-nesting heavyweight now watching older young practice independence with full talon drama.",
+      "fact": "Great horned owls nest early, so by July young birds may be fledged but still relying on adults for food.",
+      "activeFact": "Right now, adults may guard territories while young owls practice hunting, flying, and looking like haunted feather furniture."
     },
     {
       "id": "bluejay",
       "name": "Blue Jay",
       "category": "birds",
       "icon": "🐦",
-      "summary": "Blue feathered alarm system policing the canopy like every nest, feeder, and shadow requires a report.",
-      "fact": "Blue jays are active nest defenders in summer and may mob predators while feeding on insects, seeds, eggs, and fruit.",
-      "activeFact": "Right now, jays are loud in the leafed-out woods, chasing rivals and announcing anything suspicious before anyone asked."
+      "summary": "Blue-feathered security department still loud in the canopy where nests and young birds keep tensions high.",
+      "fact": "Blue jays defend nests and young aggressively, often mobbing hawks, owls, cats, people, or anything suspicious.",
+      "activeFact": "Right now, blue jays may scold, chase, and mob around feeders, trees, and nest areas with zero indoor voice."
     },
     {
       "id": "cardinal",
       "name": "Northern Cardinal",
       "category": "birds",
       "icon": "🐦‍⬛",
-      "summary": "Red morning announcer still belting from brushy cover like sunrise comes with a contract.",
-      "fact": "Northern cardinals may raise multiple broods in a season, with males singing and helping feed mates and young.",
-      "activeFact": "Right now, cardinals are active around brush, yards, and edges, singing hard while family duties stack up behind the scenes."
+      "summary": "Red summer singer still holding brush territory while pairs feed young and start possible second nesting rounds.",
+      "fact": "Northern cardinals can nest more than once in a season and continue singing through summer breeding activity.",
+      "activeFact": "Right now, cardinals may sing at dawn, visit feeders, and move through shrubs with food for young."
     },
     {
       "id": "chickadee",
       "name": "Black-capped Chickadee",
       "category": "birds",
       "icon": "🐤",
-      "summary": "Tiny cavity-nest manager running bug deliveries like the nestlings filed a hunger complaint.",
-      "fact": "Black-capped chickadees feed caterpillars and insects to nestlings in spring and early summer after nesting in cavities.",
-      "activeFact": "Right now, chickadees may be making quick trips through branches with insects, keeping the tiny-bird household operational."
+      "summary": "Tiny woodland food runner now wrapping nest season or feeding young through leafy shade.",
+      "fact": "Black-capped chickadees feed nestlings insects, caterpillars, spiders, and other protein-rich foods.",
+      "activeFact": "Right now, chickadees may move through branches and cavities, carrying small insects or guiding newly fledged young."
     },
     {
       "id": "titmouse",
       "name": "Tufted Titmouse",
       "category": "birds",
       "icon": "🐤",
-      "summary": "Gray little branch commentator moving through summer leaves with opinions and nest errands.",
-      "fact": "Tufted titmice nest in cavities and feed insects, seeds, and berries, often staying active in family groups after young fledge.",
-      "activeFact": "Right now, titmice may be carrying food, calling from cover, and working leafy edges where bugs are plentiful."
+      "summary": "Gray little commentator still working leafy trees with family-season noise and feeder confidence.",
+      "fact": "Tufted titmice nest in cavities and feed young insects while also using seeds and feeders through the warm season.",
+      "activeFact": "Right now, titmice may call from shaded branches, visit feeders, and move through woods with young nearby."
     },
     {
       "id": "nuthatch",
       "name": "White-breasted Nuthatch",
       "category": "birds",
       "icon": "🐦",
-      "summary": "Upside-down trunk mechanic checking bark seams like the tree came with hidden snacks.",
-      "fact": "White-breasted nuthatches forage bark for insects and may continue feeding young around cavities and mature trees in early summer.",
-      "activeFact": "Right now, nuthatches are busy on big trunks, slipping headfirst down bark and grabbing bugs from places nobody else checks."
+      "summary": "Upside-down bark walker still patrolling trunks for summer insects and family-season food runs.",
+      "fact": "White-breasted nuthatches forage along bark for insects, seeds, and hidden food while nesting in tree cavities.",
+      "activeFact": "Right now, nuthatches may creep headfirst down trunks, call from mature trees, and carry food through leafy cover."
     },
     {
       "id": "downy_woodpecker",
       "name": "Downy Woodpecker",
       "category": "birds",
       "icon": "🐦",
-      "summary": "Small bark drummer now deep into bug duty while summer hides the work behind leaves.",
-      "fact": "Downy woodpeckers excavate cavities and feed heavily on insects, often bringing larvae and ants to nestlings.",
-      "activeFact": "Right now, downies may be tapping quietly through branches, delivering bugs, and working small limbs with serious purpose."
+      "summary": "Tiny bark drummer now tapping through bug season while young birds learn the tree-hammer lifestyle.",
+      "fact": "Downy woodpeckers feed on insects in bark and wood, and young may be fledging or following adults by early July.",
+      "activeFact": "Right now, downies may tap softly through branches, visit suet, and move with young around wooded edges."
     },
     {
       "id": "hairy_woodpecker",
       "name": "Hairy Woodpecker",
       "category": "birds",
       "icon": "🐦",
-      "summary": "Bigger woodland hammer staying busy where old trees still hide the good insect stash.",
-      "fact": "Hairy woodpeckers hunt wood-boring insects and larvae in mature trees and may feed nestlings in early summer.",
-      "activeFact": "Right now, hairy woodpeckers are likely working taller timber, where sound gives them away before the leaves do."
+      "summary": "Bigger timber hammer working mature trees where summer insects are tucked behind bark like snacks in a wall.",
+      "fact": "Hairy woodpeckers use strong bills to uncover insects beneath bark and may still be feeding young in early summer.",
+      "activeFact": "Right now, hairy woodpeckers may be heard in older timber, working trunks, calling, or bringing food to young."
     },
     {
       "id": "pileated_woodpecker",
       "name": "Pileated Woodpecker",
       "category": "birds",
       "icon": "🪵",
-      "summary": "Giant forest carpenter carving summer snacks out of deadwood with zero apology.",
-      "fact": "Pileated woodpeckers excavate large holes for carpenter ants and beetle larvae and rely on mature trees and deadwood.",
-      "activeFact": "Right now, fresh chips, deep hammering, and loud calls can point to a pileated tearing into the woods’ bug pantry."
+      "summary": "Giant forest carpenter blasting through summer ant country like every dead tree owes him money.",
+      "fact": "Pileated woodpeckers dig large rectangular holes while searching for carpenter ants, beetle larvae, and other wood insects.",
+      "activeFact": "Right now, loud calls, deep knocking, and fresh wood chips can reveal where pileateds are working shaded woods."
     },
     {
       "id": "red_bellied_woodpecker",
       "name": "Red-bellied Woodpecker",
       "category": "birds",
       "icon": "🐦",
-      "summary": "Vocal bark brawler keeping the summer woods informed that his territory still has management.",
-      "fact": "Red-bellied woodpeckers feed on insects, nuts, fruit, and seeds while nesting in tree cavities during the warm season.",
-      "activeFact": "Right now, they may be calling, chasing, and working trunks around nest areas like a neighborhood argument with wings."
+      "summary": "Noisy woodland hammerhead still calling, feeding young, and treating feeder routes like private property.",
+      "fact": "Red-bellied woodpeckers feed on insects, nuts, fruit, and seeds, and use cavities for nesting.",
+      "activeFact": "Right now, they may call, scold, visit feeders, and work tree trunks around family territories."
     },
     {
       "id": "mourning_dove",
       "name": "Mourning Dove",
       "category": "birds",
       "icon": "🕊️",
-      "summary": "Soft-voiced twig optimist proving summer nesting does not require structural standards.",
-      "fact": "Mourning doves can nest multiple times in warm months and feed their young crop milk before switching them to seeds.",
-      "activeFact": "Right now, paired doves may be cooing, feeding, and attempting another flimsy nest with absolute confidence."
+      "summary": "Soft-voiced summer nester still proving a few twigs and optimism can somehow count as architecture.",
+      "fact": "Mourning doves can nest multiple times in warm months and often build simple stick-platform nests.",
+      "activeFact": "Right now, paired doves may coo, carry twigs, feed young, or sit on nests that look legally unfinished."
     },
     {
       "id": "goldfinch",
       "name": "American Goldfinch",
       "category": "birds",
       "icon": "🐦",
-      "summary": "Bright little seed specialist finally dressed closer to summer and waiting on the best weed crop.",
-      "fact": "American goldfinches nest later than many songbirds, timing breeding with peak thistle and seed availability.",
-      "activeFact": "Right now, goldfinches are brighter and livelier, feeding on seeds and scouting the weedy patches they’ll care about even more soon."
+      "summary": "Bright yellow seed specialist now moving toward peak nesting timing as thistle and summer seeds build.",
+      "fact": "American goldfinches nest later than many songbirds, timing breeding with abundant seed-producing plants.",
+      "activeFact": "Right now, males are bright, flocks are lively, and nesting behavior is heating up as summer seed sources develop."
     },
     {
       "id": "junco",
       "name": "Dark-eyed Junco",
       "category": "birds",
       "icon": "🐦",
-      "summary": "Cool-season ground picker mostly fading from the local spotlight as summer steals the stage.",
-      "fact": "Dark-eyed juncos often breed farther north or in cooler forest habitats, becoming less noticeable in warmer lowland areas by summer.",
-      "activeFact": "Right now, juncos are likely much less common around feeders, with summer birds and young families taking over the ground scene."
+      "summary": "Cool-weather ground bird mostly off the local summer stage while warmer-season feeder traffic takes over.",
+      "fact": "Dark-eyed juncos usually breed farther north or in cooler highland habitats and are less common in many lower summer areas.",
+      "activeFact": "Right now, juncos may be scarce around regular feeders as summer birds dominate the ground and brush traffic."
     },
     {
       "id": "house_finch",
       "name": "House Finch",
       "category": "birds",
       "icon": "🐦",
-      "summary": "Backyard singer juggling nest life, feeder stops, and red-feathered confidence near the edges.",
-      "fact": "House finches may nest multiple times in a season and feed seeds, buds, and plant matter to their young.",
-      "activeFact": "Right now, house finches are active around feeders, buildings, shrubs, and edges, with plenty of singing and family movement."
+      "summary": "Social red-headed singer now fully in summer neighborhood mode with nests, feeders, and constant music.",
+      "fact": "House finches often raise multiple broods and sing frequently around buildings, shrubs, feeders, and sheltered nest sites.",
+      "activeFact": "Right now, house finches may be singing, paired, feeding young, and making steady feeder visits."
     },
     {
       "id": "purple_finch",
       "name": "Purple Finch",
       "category": "birds",
       "icon": "🐦",
-      "summary": "Rosy woodland singer drifting through leafy cover like the forest kept him on limited release.",
-      "fact": "Purple finches breed in northern forests and feed on seeds, buds, berries, and insects during the warm season.",
-      "activeFact": "Right now, purple finches may be quieter and more scattered, showing up in wooded areas where food and cover line up."
+      "summary": "Rosy northern woodland singer still possible around forest edges, arriving like a surprise guest with wings.",
+      "fact": "Purple finches breed in northern forests and use mixed or coniferous woodland habitat during summer.",
+      "activeFact": "Right now, purple finches may show at forest edges, feeders, or conifer cover, but visits can stay brief and unpredictable."
     },
     {
       "id": "wild_turkey",
       "name": "Wild Turkey",
       "category": "birds",
       "icon": "🦃",
-      "summary": "Big ground bird shifting from strut theater into nesting, brooding, and tall-grass sneaking.",
-      "fact": "By early summer, many turkey hens are nesting or caring for poults while gobbler display activity fades from peak spring levels.",
-      "activeFact": "Right now, hens may be hidden in grass or cover, while gobblers are less dramatic but still roaming openings and edges."
+      "summary": "Big ground bird now shifting hard into hen-and-poult season while gobbler drama fades into reruns.",
+      "fact": "By early July, many wild turkey hens may be leading poults through grassy openings and insect-rich cover.",
+      "activeFact": "Right now, hens may be secretive with poults, using fields, trails, and brushy edges where young birds can feed on insects."
     },
     {
       "id": "ruffed_grouse",
       "name": "Ruffed Grouse",
       "category": "birds",
       "icon": "🐓",
-      "summary": "Forest drummer turning down the spring concert while cover fills in and broods become the real business.",
-      "fact": "Ruffed grouse chicks hatch in late spring or early summer and feed heavily on insects during their first weeks.",
-      "activeFact": "Right now, drumming may be tapering, while hens and young stay deep in thick cover where insects are plentiful."
+      "summary": "Forest floor specialist now relying on leafy cover while hens move broods through bug-rich understory.",
+      "fact": "Ruffed grouse chicks feed heavily on insects early in life and follow hens through dense ground cover.",
+      "activeFact": "Right now, grouse may be quiet and hidden, with broods tucked into leafy cover where insects are abundant."
     },
     {
       "id": "sandhill_crane",
       "name": "Sandhill Crane",
       "category": "birds",
       "icon": "🕊️",
-      "summary": "Tall marshland megaphone now deep into nesting territory and family-season seriousness.",
-      "fact": "Sandhill cranes nest in wetlands and raise precocial chicks that can walk soon after hatching.",
-      "activeFact": "Right now, crane pairs may be guarding wetland territories or moving with young nearby, loud enough to announce the whole operation."
+      "summary": "Tall marsh dinosaur now moving through colt season with loud calls and big wetland family energy.",
+      "fact": "Sandhill crane colts can walk soon after hatching and follow parents through wetlands and open feeding areas.",
+      "activeFact": "Right now, cranes may guard young, feed in fields or marshes, and call loudly across open wet ground."
     },
     {
       "id": "crow",
       "name": "American Crow",
       "category": "birds",
       "icon": "🐦‍⬛",
-      "summary": "Black-feathered field auditor running summer surveillance with a family crew and questionable curiosity.",
-      "fact": "American crows feed young in spring and early summer and use family groups to mob predators and search for food.",
-      "activeFact": "Right now, crows are investigating fields, roads, nests, and anything suspicious with the confidence of unpaid inspectors."
+      "summary": "Black-feathered summer investigator still auditing roads, fields, nests, predators, and anything suspicious.",
+      "fact": "American crows are intelligent family birds that may defend young, mob predators, and forage widely in summer.",
+      "activeFact": "Right now, crows may be loud at sunrise, watching hawks, working roadsides, and keeping the neighborhood under review."
     },
     {
       "id": "raven",
       "name": "Common Raven",
       "category": "birds",
       "icon": "🐦‍⬛",
-      "summary": "Big timber philosopher cruising summer air like it already knows how the story ends.",
-      "fact": "Common ravens often nest early, and young may be fledged or moving with adults by early summer.",
-      "activeFact": "Right now, ravens may be seen soaring over timber, calling from high perches, or moving in family groups with that old-soul swagger."
+      "summary": "Big woodland brain cruising summer skies in pairs or family groups like it already knows the ending.",
+      "fact": "Common ravens often breed early, and by summer young birds may travel with adults through forested territory.",
+      "activeFact": "Right now, ravens may soar over timber, call from ridges, and move familiar routes in pairs or family groups."
     },
     {
       "id": "red_tailed_hawk",
       "name": "Red-tailed Hawk",
       "category": "birds",
       "icon": "🦅",
-      "summary": "Airborne landlord watching summer fields while nest duty turns into hungry-young logistics.",
-      "fact": "Red-tailed hawk young grow through late spring and early summer, while adults hunt steadily to feed them.",
-      "activeFact": "Right now, red-tails may be circling over openings or perching near nest zones, scanning for rodents, snakes, and careless movement."
+      "summary": "Soaring field hunter now tied to summer young while careless rodents keep making final decisions.",
+      "fact": "Red-tailed hawks feed young mammals, birds, reptiles, and other prey to nestlings or fledglings in early summer.",
+      "activeFact": "Right now, red-tails may perch near fields, circle thermals, and return toward nest areas with prey."
     },
     {
       "id": "coopers_hawk",
       "name": "Cooper’s Hawk",
       "category": "birds",
       "icon": "🦅",
-      "summary": "Woodland speed demon threading leafy lanes where songbirds suddenly remember urgency.",
-      "fact": "Cooper’s hawks nest in wooded areas and hunt birds through dense cover with fast, agile flight.",
-      "activeFact": "Right now, quick flashes through trees may be a Cooper’s hawk working nesting territory or hunting around busy bird traffic."
+      "summary": "Fast leafy-tree missile hunting songbirds while summer cover turns every chase into branch-level chaos.",
+      "fact": "Cooper’s hawks specialize in hunting birds through wooded cover and may still be feeding young in early July.",
+      "activeFact": "Right now, quick low flights through trees may mean a Cooper’s hawk is hunting or defending family space."
     },
     {
       "id": "mallard",
       "name": "Mallard Duck",
       "category": "water",
       "icon": "🦆",
-      "summary": "Classic pond duck shifting from pair-season drama into nesting cover and duckling-watch mode.",
-      "fact": "Mallards nest on the ground near water, and ducklings feed themselves soon after hatching while following the hen.",
-      "activeFact": "Right now, mallards may be tucked near cover, cruising pond edges, or moving with ducklings where water and safety overlap."
+      "summary": "Classic pond duck now loafing, molting, feeding, and leading ducklings through warm shallow water.",
+      "fact": "Mallard ducklings feed themselves soon after hatching, while hens guide broods through protective shallow habitat.",
+      "activeFact": "Right now, mallards may use pond edges, flooded vegetation, ditches, and calm shallows with ducklings close."
     },
     {
       "id": "wood_duck",
       "name": "Wood Duck",
       "category": "water",
       "icon": "🦆",
-      "summary": "Flashy backwater specialist turning tree-cavity success into tiny duckling chaos on the water.",
-      "fact": "Wood duck ducklings leap from tree cavities shortly after hatching and follow the hen to water.",
-      "activeFact": "Right now, wood ducks may be using quiet pond corners, flooded timber, and sheltered edges where young birds can stay hidden."
+      "summary": "Flashy summer backwater duck hiding broods in green pockets where ducklings look like floating punctuation.",
+      "fact": "Wood duck ducklings leave cavity nests soon after hatching and follow the hen to sheltered water.",
+      "activeFact": "Right now, wood ducks may stay tucked into shaded pond edges, flooded timber, creek bends, and quiet brood cover."
     },
     {
       "id": "canada_goose",
       "name": "Canada Goose",
       "category": "water",
       "icon": "🪿",
-      "summary": "Shoreline authority figure now escorting fuzzy goslings with maximum attitude and no customer service training.",
-      "fact": "Canada geese hatch goslings in spring, and both parents defend the young aggressively while they feed on grasses and aquatic plants.",
-      "activeFact": "Right now, geese with goslings are loud, defensive, and fully prepared to make the pond feel like their private property."
+      "summary": "Pond security staff still escorting goslings and judging every creature within honking distance.",
+      "fact": "Canada geese guard goslings closely through early summer while feeding on grasses and aquatic plants.",
+      "activeFact": "Right now, goose families may graze near ponds and fields, with adults watching everything like unpaid bouncers."
     },
     {
       "id": "great_blue_heron",
       "name": "Great Blue Heron",
       "category": "water",
       "icon": "🦤",
-      "summary": "Long-legged fish statue working summer shallows like patience is a hunting weapon.",
-      "fact": "Great blue herons hunt fish, frogs, snakes, crayfish, and small animals in shallow water throughout summer.",
-      "activeFact": "Right now, herons may be posted along pond edges, creeks, and marshes, waiting for one unlucky twitch below the surface."
+      "summary": "Long-legged shoreline hunter now stalking fish, frogs, and unlucky shallows with frozen-statue patience.",
+      "fact": "Great blue herons hunt fish, frogs, crayfish, snakes, and small animals in shallow water through summer.",
+      "activeFact": "Right now, herons may work pond edges, creek shallows, marsh margins, and quiet shorelines where prey is active."
     },
     {
       "id": "painted_turtle",
       "name": "Painted Turtle",
       "category": "water",
       "icon": "🐢",
-      "summary": "Solar-powered log stacker soaking up heat between pond errands and summer turtle business.",
-      "fact": "Painted turtles bask frequently in warm months and females may travel over land to lay eggs in sunny soil.",
-      "activeFact": "Right now, basking logs should be busy on sunny days, with turtles dropping into the water the second they feel judged."
+      "summary": "Solar-powered pond stacker basking on logs while nesting season keeps some turtles wandering overland.",
+      "fact": "Painted turtles bask to regulate body temperature, and females may travel to sandy or soft soil to lay eggs.",
+      "activeFact": "Right now, turtles may stack on logs, cross warm banks, or appear near nesting spots on sunny days."
     },
     {
       "id": "snapping_turtle",
       "name": "Snapping Turtle",
       "category": "water",
       "icon": "🐢",
-      "summary": "Old pond tank fully awake now and moving with prehistoric confidence through warm shallows.",
-      "fact": "Snapping turtles become more active in early summer, and females may travel over land to find nesting sites.",
-      "activeFact": "Right now, snappers may be moving through muddy shallows or even crossing open ground on nesting errands."
+      "summary": "Swamp tank still active in warm water, with nesting wanderers occasionally making the woods feel prehistoric.",
+      "fact": "Female snapping turtles often travel overland in late spring and early summer to find egg-laying sites.",
+      "activeFact": "Right now, snapping turtles may move through shallows, cross banks, or appear away from water while nesting activity winds down."
     },
     {
       "id": "bluegill",
       "name": "Bluegill",
       "category": "water",
       "icon": "🐟",
-      "summary": "Pond panfish now sliding into bed-making season with tiny territorial attitudes.",
-      "fact": "Bluegills spawn in warm shallows, where males build and guard circular nests in colonies.",
-      "activeFact": "Right now, bluegill may be gathering near shallow beds, guarding spots, and acting tougher than their size suggests."
+      "summary": "Little panfish brawler now deep in warm shallow season where beds, colonies, and attitude all matter.",
+      "fact": "Bluegill spawn in colonies, with males guarding circular nests in warm shallow water.",
+      "activeFact": "Right now, bluegill may guard beds, feed near weeds, or gather around firm-bottom shallows and protected edges."
     },
     {
       "id": "largemouth_bass",
       "name": "Largemouth Bass",
       "category": "water",
       "icon": "🐟",
-      "summary": "Shallow-water bruiser guarding beds and ambush lanes with big-mouth confidence.",
-      "fact": "Largemouth bass spawn in warm shallows, and males often guard nests and newly hatched fry.",
-      "activeFact": "Right now, bass may be tight to beds, weeds, wood, and warm edges, defending territory like pond bouncers."
+      "summary": "Warm-water ambush bruiser shifting from spawning duty into summer cover patrol.",
+      "fact": "After spawning, largemouth bass often move toward weeds, wood, shade, and structure where prey is available.",
+      "activeFact": "Right now, bass may hold near logs, weeds, drop-offs, shaded banks, and shallow cover during cooler parts of the day."
     },
     {
       "id": "yellow_perch",
       "name": "Yellow Perch",
       "category": "water",
       "icon": "🐟",
-      "summary": "Striped school fish settling into summer patterns after the early-season rush.",
-      "fact": "Yellow perch spawn earlier in spring and shift toward feeding groups around vegetation, drop-offs, and cooler structure as summer builds.",
-      "activeFact": "Right now, perch may be cruising weeds and nearshore structure, feeding in groups where small prey gathers."
+      "summary": "Striped school fish now settled into summer feeding lanes around weeds, edges, and cooler water.",
+      "fact": "Yellow perch spawn early in spring, then shift into summer feeding patterns around schools, weeds, and structure.",
+      "activeFact": "Right now, perch may school near weed lines, deeper edges, and food-rich structure as water warms."
     },
     {
       "id": "northern_pike",
       "name": "Northern Pike",
       "category": "water",
       "icon": "🐟",
-      "summary": "Toothy weed-line ambusher done with spring drama and back to ruining smaller fish’s day.",
-      "fact": "Northern pike spawn early and then use vegetation, cooler water, and ambush cover through summer feeding periods.",
-      "activeFact": "Right now, pike may be lurking along weed edges, shaded shallows, and cooler lanes with all the charm of a bear trap."
+      "summary": "Toothy green ambush missile lurking in weedy summer lanes where frogs and fish make terrible choices.",
+      "fact": "After early spring spawning, northern pike use vegetation, creek mouths, and cooler edge habitat to ambush prey.",
+      "activeFact": "Right now, pike may hold near weeds, flooded cover, shaded edges, and ambush routes with full villain energy."
     },
     {
       "id": "spring_peeper",
       "name": "Spring Peeper",
       "category": "amphib_reptile",
       "icon": "🐸",
-      "summary": "Tiny night noisemaker still adding sparkle to wet evenings, though the big spring explosion is easing.",
-      "fact": "Spring peepers call most intensely in spring, with activity tapering as breeding winds down and summer frogs take more of the stage.",
-      "activeFact": "Right now, peepers may still call on warm damp nights, especially in low wet pockets after rain."
+      "summary": "Tiny spring chorus legend now mostly fading back as louder summer frogs take over the night shift.",
+      "fact": "Spring peepers call most heavily in spring, with activity usually fading as summer warmth and later frogs dominate.",
+      "activeFact": "Right now, peepers may be quieter, though damp nights or wet woods can still produce scattered calls."
     },
     {
       "id": "bullfrog",
       "name": "American Bullfrog",
       "category": "amphib_reptile",
       "icon": "🐸",
-      "summary": "Big pond bass drum finally warming up and getting ready to dominate the summer night shift.",
-      "fact": "American bullfrogs call and breed later than many spring frogs, becoming louder as water temperatures climb into summer.",
-      "activeFact": "Right now, bullfrogs may be starting their deeper calls around ponds and warm edges, with bigger noise coming as nights heat up."
+      "summary": "Big pond bass drum now fully entering summer voice season from warm weedy shorelines.",
+      "fact": "American bullfrogs call during warm summer breeding periods and hunt insects, fish, frogs, and small animals.",
+      "activeFact": "Right now, bullfrogs may call from pond edges, sit in warm shallows, and lunge at anything bite-sized."
     },
     {
       "id": "green_frog",
       "name": "Green Frog",
       "category": "amphib_reptile",
       "icon": "🐸",
-      "summary": "Shoreline banjo-plucker now getting louder as summer pond life finds its rhythm.",
-      "fact": "Green frogs become more vocal in late spring and summer, calling from pond edges, marshes, and slow water.",
-      "activeFact": "Right now, green frogs may be calling from shallows and banks, adding that plunky note to the evening pond soundtrack."
+      "summary": "Shoreline banjo frog now active in warm pond edges where bugs, cover, and sound all stack up.",
+      "fact": "Green frogs call through warm months and often stay close to ponds, wetlands, ditches, and shoreline cover.",
+      "activeFact": "Right now, green frogs may call from sunny banks, weedy edges, and shallow water with their rubber-band plunk."
     },
     {
       "id": "leopard_frog",
       "name": "Leopard Frog",
       "category": "amphib_reptile",
       "icon": "🐸",
-      "summary": "Spotted wet-grass jumper moving through the green like somebody gave the meadow springs.",
-      "fact": "Leopard frogs use wet meadows, marsh edges, and grassy cover in early summer while feeding on insects and small invertebrates.",
-      "activeFact": "Right now, leopard frogs may be active near ditches, pond edges, and wet grass, launching themselves the second feet get too close."
+      "summary": "Spotted wet-edge jumper roaming summer grass, puddles, marshes, and damp trail pockets.",
+      "fact": "Leopard frogs use wet meadows, marsh edges, grass, and shallow water after spring breeding.",
+      "activeFact": "Right now, leopard frogs may appear near wet grass, puddled trails, marsh edges, and damp cover after rain."
     },
     {
       "id": "garter_snake",
       "name": "Garter Snake",
       "category": "amphib_reptile",
       "icon": "🐍",
-      "summary": "Striped sun noodle now fully active and patrolling edges for frogs, worms, and poor decisions.",
-      "fact": "Garter snakes feed on worms, amphibians, fish, and small animals and are commonly active in warm weather.",
-      "activeFact": "Right now, garter snakes may be basking near trails, hunting around wet edges, or slipping through grass like quiet little cables."
+      "summary": "Summer sun noodle fully on patrol for worms, frogs, small fish, and anything slow enough to be lunch.",
+      "fact": "Garter snakes feed on worms, amphibians, fish, slugs, and small prey during warm-season activity.",
+      "activeFact": "Right now, garter snakes may bask on trails, hunt near wet spots, or slip through grass where frogs are moving."
     },
     {
       "id": "water_snake",
       "name": "Water Snake",
       "category": "amphib_reptile",
       "icon": "🐍",
-      "summary": "Shoreline bruiser back on patrol where frogs, fish, and nervous humans all share the bank.",
-      "fact": "Water snakes become more visible in warm weather, hunting fish and amphibians near ponds, streams, and marshes.",
-      "activeFact": "Right now, water snakes may be basking on banks, logs, and rocks before dropping into the water like they own the dock."
+      "summary": "Bank-side attitude rope now in full shoreline season, hunting fish and frogs from sunny water edges.",
+      "fact": "Water snakes hunt fish and amphibians around ponds, streams, marshes, and sunny banks during summer.",
+      "activeFact": "Right now, water snakes may bask near pond edges, dive into shallows, or hold tight to warm banks."
     },
     {
       "id": "milk_snake",
       "name": "Eastern Milk Snake",
       "category": "amphib_reptile",
       "icon": "🐍",
-      "summary": "Secretive cover snake working warm edges while mice make questionable summer choices.",
-      "fact": "Eastern milk snakes hunt rodents, small snakes, and other prey, often using barns, boards, rocks, and brushy cover.",
-      "activeFact": "Right now, milk snakes may turn up under warm cover or along brushy edges where rodents are active."
+      "summary": "Secretive warm-cover snake hunting rodents and small prey around woodpiles, barns, rocks, and brush.",
+      "fact": "Eastern milk snakes eat rodents, small reptiles, eggs, and other prey while using warm cover during summer.",
+      "activeFact": "Right now, milk snakes may show near boards, barns, wood piles, rocks, and brushy edges on mild days."
     },
     {
       "id": "monarch",
       "name": "Monarch Butterfly",
       "category": "insects",
       "icon": "🦋",
-      "summary": "Orange summer traveler finally becoming more realistic as milkweed and warmer days enter the chat.",
-      "fact": "Monarchs depend on milkweed for their caterpillars and may become more common as summer generations move north.",
-      "activeFact": "Right now, monarch sightings are more possible around milkweed, open fields, and sunny wildflower edges."
+      "summary": "Orange milkweed traveler now much more possible as summer nectar and host plants hit stride.",
+      "fact": "Monarch caterpillars rely on milkweed, while adults use nectar flowers through summer generations.",
+      "activeFact": "Right now, monarchs may appear around milkweed, meadow flowers, gardens, and sunny openings."
     },
     {
       "id": "swallowtail",
       "name": "Swallowtail Butterfly",
       "category": "insects",
       "icon": "🦋",
-      "summary": "Big-winged flower cruiser finally getting the warm afternoons it was waiting for.",
-      "fact": "Swallowtail butterflies become more active in late spring and summer as nectar plants and host plants develop.",
-      "activeFact": "Right now, swallowtails may be cruising sunny openings, garden blooms, wet spots, and trail edges with dramatic little royalty energy."
+      "summary": "Big-winged summer showoff cruising sunny flowers like the meadow finally turned the lights on.",
+      "fact": "Swallowtails use nectar flowers as adults and lay eggs on specific host plants depending on species.",
+      "activeFact": "Right now, swallowtails may cruise gardens, trail edges, flowering shrubs, and sunny openings on calm warm days."
     },
     {
       "id": "dragonfly",
       "name": "Dragonfly",
       "category": "insects",
       "icon": "🪲",
-      "summary": "Sky hunter officially entering mosquito-control season with four wings and no patience.",
-      "fact": "Dragonflies emerge from aquatic nymphs as temperatures rise and become major predators of mosquitoes, flies, and other insects.",
-      "activeFact": "Right now, dragonflies may be patrolling pond edges, trails, and openings where flying insects are making themselves available."
+      "summary": "Aerial mosquito patrol now fully taking stations around ponds, marshes, trails, and sunny water edges.",
+      "fact": "Dragonflies spend youth as aquatic nymphs, then emerge as fast-flying adults that hunt insects in the air.",
+      "activeFact": "Right now, dragonflies may patrol pond edges, hover over trails, and snatch mosquitoes and flies midair."
     },
     {
       "id": "damselfly",
       "name": "Damselfly",
       "category": "insects",
       "icon": "🪲",
-      "summary": "Delicate wetland patrol now hovering low around reeds like the pond hired tiny security.",
-      "fact": "Damselflies emerge near water in late spring and summer and hunt small flying insects close to vegetation.",
-      "activeFact": "Right now, damselflies may be hovering near pond plants, grasses, and shoreline stems in quiet little patrol loops."
+      "summary": "Delicate shoreline flyer now hovering through reeds and pond plants like summer switched on tiny wings.",
+      "fact": "Damselflies emerge from aquatic nymphs and often stay near vegetation around ponds, streams, and wetlands.",
+      "activeFact": "Right now, damselflies may perch on reeds, hover near calm water, and flick through shoreline plants on warm days."
     },
     {
       "id": "firefly",
       "name": "Firefly",
       "category": "insects",
       "icon": "✨",
-      "summary": "Summer light crew starting to warm up backstage for those first blink-and-grin nights.",
-      "fact": "Fireflies begin flashing when warm, humid summer evenings arrive, using light patterns to find mates.",
-      "activeFact": "Right now, early firefly activity may be starting or just around the corner in damp grass, field edges, and woodland openings."
+      "summary": "Summer lantern crew now flashing through warm evening grass like the woods installed tiny signal lights.",
+      "fact": "Adult fireflies use flashing light patterns to find mates during warm summer nights.",
+      "activeFact": "Right now, fireflies may glow over grass, woodland edges, and damp low spots after sunset."
     },
     {
       "id": "honeybee",
       "name": "Honeybee",
       "category": "insects",
       "icon": "🐝",
-      "summary": "Flower-route worker fully clocked in now that blooms are finally worth the paperwork.",
-      "fact": "Honeybees forage heavily in warm weather, gathering nectar and pollen from flowering plants and communicating food locations by dance.",
-      "activeFact": "Right now, honeybees may be active around clover, garden blooms, fruit blossoms, and sunny wildflower patches."
+      "summary": "Flower-shift worker now clocking heavy hours across clover, gardens, blossoms, and sunny July edges.",
+      "fact": "Honeybees collect nectar and pollen from many summer flowers and communicate good food sources with waggle dances.",
+      "activeFact": "Right now, honeybees may be steady on clover, garden blooms, meadow flowers, and sunny trail edges."
     },
     {
       "id": "bumblebee",
       "name": "Bumblebee",
       "category": "insects",
       "icon": "🐝",
-      "summary": "Fuzzy flower tank now moving from queen scouting into full colony-building season.",
-      "fact": "Bumblebee queens establish nests in spring, and worker numbers grow as summer flowers provide more nectar and pollen.",
-      "activeFact": "Right now, bumblebees may be working clover, blossoms, and field edges, with the first colony workforce joining the queens."
+      "summary": "Fuzzy summer pollinator crew now fully active as colonies grow and flowers keep the buffet open.",
+      "fact": "By early July, bumblebee colonies are growing, with workers foraging for nectar and pollen to support the nest.",
+      "activeFact": "Right now, bumblebees may work clover, garden flowers, shrubs, meadow blooms, and edges where pollen is reliable."
     },
     {
       "id": "grasshopper",
       "name": "Grasshopper",
       "category": "insects",
       "icon": "🦗",
-      "summary": "Summer leg-spring rookie finally stepping onto the stage as grass gets taller and warmer.",
-      "fact": "Grasshoppers become more active as warm-season vegetation develops, feeding on grasses and leaves while growing through nymph stages.",
-      "activeFact": "Right now, small grasshoppers may be starting to show in sunny grass, trail edges, and open patches that heat up fast."
+      "summary": "Summer hopper crew now clicking into gear as grasses thicken and sunny trail edges get lively.",
+      "fact": "Grasshoppers become more active in summer as warm weather, grasses, and herbaceous plants provide food and cover.",
+      "activeFact": "Right now, young grasshoppers may jump through sunny grass, dry openings, field edges, and trail margins."
     }
   ]
 }
